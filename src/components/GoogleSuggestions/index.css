@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+}
+
+.img-size {
+  width: 250px;
+  height: 80px;
+  align-self: center;
+}
+
+.search-icon {
+  width: 25px;
+  height: 25px;
+}
+
+.input-el {
+  color: #64748b;
+  font-family: Roboto;
+  border: none;
+  outline: none;
+  padding: 3px;
+  margin: 10px;
+  line-height: 0em;
+  width: 90%;
+  line-height: 0em;
+}
+
+.input-container {
+  display: flex;
+}
+
+.search-container {
+  box-shadow: 1px 1px 2px 2px #bfbfbf;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+  width: 100%;
+}
+
+.ul-list1 {
+  padding: 0px;
+}
